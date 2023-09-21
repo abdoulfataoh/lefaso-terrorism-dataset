@@ -1,3 +1,8 @@
+<p>
+  <img src="https://img.shields.io/badge/version-1.0.0-brightgreen">
+  <img src="https://img.shields.io/badge/last update-21/09/2023-brightgreen">
+</p>
+
 ## lefaso-terrorism-dataset
 lefaso-terrorism-dataset is a collection of press articles and Internet users comments of [https://www.lefaso.net](https://www.lefaso.net) on terrorism in Burkina Faso.
 
@@ -5,7 +10,7 @@ Any data analysis work that can contribute to eradicating this problem is welcom
 
 ## Data Format
 
-the dataset is a list of json objects. Each json object has the following description
+the dataset is a list of ``2140`` json objects. Each json object has the following description
 
 <div align="center">
 

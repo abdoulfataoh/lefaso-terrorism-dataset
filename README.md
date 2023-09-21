@@ -26,3 +26,17 @@ the dataset is a list of ``2140`` json objects. Each json object has the followi
 | article_comments       | article comments       |
 
 </div>
+
+## Citation
+
+```
+@misc{lefaso-terrorism-dataset,
+  author = {Abdoul Fataoh Kabore},
+  source = {https://www.lefaso.net},
+  title = {lefaso-terrorism-dataset},
+  year = {2023},
+  note = {A collection of press articles and Internet users' comments on terrorism in Burkina Faso. Any data analysis work that can contribute to eradicating this problem is welcome.},
+}
+
+```
+
